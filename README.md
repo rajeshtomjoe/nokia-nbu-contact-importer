@@ -2,7 +2,7 @@
 
 A utility to parse the contacts from nokia's contact backup file formats (*.nbu). This utility also helps you to sync the backed up contacts to your Google Contacts.
 
-(Demo Link:)[http://demos.rajshtomjoe.com/nokia/]
+Demo Link: http://demos.rajshtomjoe.com/nokia/
 
 ## Installation & Dependencies
 
